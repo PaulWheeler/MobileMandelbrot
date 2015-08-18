@@ -1,0 +1,9 @@
+MIDlet-1: MobileMandelbrot,/mandelbrot/mandIcon.png,mandelbrot.MobileMandelbrot
+MIDlet-Icon: mandIcon.png
+MIDlet-Jar-Size: 30607
+MIDlet-Jar-URL: Mobile_Mandelbrot_v2.0.jar
+MIDlet-Name: Mobile Mandelbrot v2.0
+MIDlet-Vendor: P Wheeler
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
